@@ -22,7 +22,7 @@ Sample-to-sample distance heatmap calculated after estimation of stabilized vari
   <img src="images/Sample_to_sample_heatmap.jpg" alt="Top 10 Manufacturers" width="550"/>
 </div>
 
-MA plot for visual representation of gene expression changes when comparing LUC KD (control condition) versus either DIS3L2 KD (above) or DIS3L2 + TUTs KD (below). Differentially expressed genes (DEGs) identified by DESeq 2 with adjusted p value < 0.05 (Wald test) are represented as red points.
+MA plot for visual representation of gene expression changes when comparing LUC KD (control condition) versus either DIS3L2 KD (left) or DIS3L2 + TUTs KD (right). Differentially expressed genes (DEGs) identified by DESeq 2 with adjusted p value < 0.05 (Wald test) are represented as red points.
 <div style="display: flex; justify-content: center;">
   <img src="images/MA_plot_DIS3L2KD.jpg" alt="Top 10 Manufacturers" width="400"/>
   <img src="images/MA_plot_DIS3L2_TUTs_KD.jpg" alt="Top 10 Manufacturers" width="400"/>
