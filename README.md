@@ -14,5 +14,10 @@ Total RNA extracts were initially obtained from SW480 cells treated with siRNAs 
 
 Heatmap of all genes detected by the RNA-seq, with a minimum of 11 counts in at least one sample. Genes are represented in the vertical axis, conditions in the horizontal axis and expression values are displayed as a Z-score (mean = 0) across samples. Color saturation represents the magnitude of deviation from the median (green and red color saturation correspond to values that are lower and greater than the row mean, respectively).
 <div style="text-align: center;">
-  <img src="images/Heatmap_all_genes.jpg" alt="Top 10 Manufacturers" width="900"/>
+  <img src="images/Heatmap_all_genes.jpg" alt="Top 10 Manufacturers" width="800"/>
+</div>
+
+Sample-to-sample distance heatmap calculated after estimation of stabilized variance of normalized counts of gene expression across replicates. Square color saturation indicates relationship between transcriptomes of all RNA-seq samples.
+<div style="text-align: center;">
+  <img src="images/Sample_to_sample_heatmap.jpg" alt="Top 10 Manufacturers" width="550"/>
 </div>
